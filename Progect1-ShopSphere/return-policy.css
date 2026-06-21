@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Inter',sans-serif;
+}
+
+body{
+    background:#f5f7fa;
+}
+
+.page-banner{
+    background:linear-gradient(to right,#003cff,#00a6ff);
+    color:white;
+    text-align:center;
+    padding:70px 20px;
+}
+
+.page-banner h1{
+    font-size:50px;
+    margin-bottom:10px;
+}
+
+.box{
+    width:85%;
+    margin:50px auto;
+}
+
+.area{
+    background:white;
+    padding:30px;
+    margin-bottom:25px;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.area ul{
+    padding-left:25px;
+}
+
+.area h2,
+.area h3{
+    margin-bottom:10px;
+}
